@@ -1,0 +1,38 @@
+.westside{
+    background-image: url("back.jpg");
+   
+    background-size: cover;
+    height: 700px;
+}
+.footer{
+    color: black;
+    padding: 90px;
+    text-align: center;
+    font-size: 15px;
+}
+.service,.product{
+    padding: 30px;color: darkblue;
+}
+.sub-head{
+    padding: 25px;
+    color: rgb(241, 76, 76);
+}.links{
+    background-color: darkkhaki;
+}
+.sec2{
+    background-color: aquamarine;
+}
+.head{
+    margin-top: 200px;
+    font-size: 50px;
+    text-align: center;
+    
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sec3{
+    background-color: burlywood;
+}
+.seclast{
+    background-color: cadetblue;
+}
